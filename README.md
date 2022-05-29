@@ -1,9 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails 7 e-commerce app using Tailwind CSS, Hotwire and Turbo
 
-Things you may want to cover:
+Things to cover:
 
 * Ruby version
 
